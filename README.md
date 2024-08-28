@@ -1,4 +1,5 @@
 # Android device tree for samsung SM-J330F (j3y17lte)
+made with aospdtgen
 
 ```
 #
